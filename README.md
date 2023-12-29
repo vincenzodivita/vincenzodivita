@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vincenzo Di Vita</h1>
-<h3 align="center">I am a passionate developer specializing in Services and Microservices Development. Currently, I work as a Back-end Developer at Future +, where I have extensive expertise in both Front-End and Back-End development. My skills span across Vue, React, NestJS, dotNet, and Laravel frameworks. I have a particular interest in Back-end projects, and I find great excitement in working on projects that involve API development.</h3>
+<h3>I am a passionate developer specializing in Services and Microservices Development. Currently, I work as a Back-end Developer at Future +, where I have extensive expertise in both Front-End and Back-End development. My skills span across Vue, React, NestJS, dotNet, and Laravel frameworks. I have a particular interest in Back-end projects, and I find great excitement in working on projects that involve API development.</h3>
 
-<h2>🎓 I have successfully completed the Boolean course, where I honed my skills in Full Stack Development. This comprehensive training has provided me with a robust foundation and hands-on experience in HTML, CSS, JavaScript, PHP, and MySQL. Additionally, I undertook an academy with NS12, where I delved deeper into backend development for services and microservices. During this program, I gained proficiency in technologies such as JavaScript, TypeScript, C#, Node.js, NestJS, .NET, MSSQL, PostgreSQL, and MongoDB.</h2>
+<h4>🎓 I have successfully completed the Boolean course, where I honed my skills in Full Stack Development. This comprehensive training has provided me with a robust foundation and hands-on experience in HTML, CSS, JavaScript, PHP, and MySQL. Additionally, I undertook an academy with NS12, where I delved deeper into backend development for services and microservices. During this program, I gained proficiency in technologies such as JavaScript, TypeScript, C#, Node.js, NestJS, .NET, MSSQL, PostgreSQL, and MongoDB.</h4>
 
-<h2>🚀 Currently, I'm dedicating my efforts to crafting my personal music practice web app. In my free time, you'll often find me exploring different Sicilian cities, immersed in the joy of playing the drums with my band.</h2>
+<h4>🚀 Currently, I'm dedicating my efforts to crafting my personal music practice web app. In my free time, you'll often find me exploring different Sicilian cities, immersed in the joy of playing the drums with my band.</h4>
 
-<h2>💼 I invite you to explore my GitHub profile, where you'll discover a collection of my key projects, encompassing work from the Boolean Course, NS12 Academy, and personal endeavors. Each project represents a unique challenge and underscores my dedication to code quality and innovation.</h2>
+<h4>💼 I invite you to explore my GitHub profile, where you'll discover a collection of my key projects, encompassing work from the Boolean Course, NS12 Academy, and personal endeavors. Each project represents a unique challenge and underscores my dedication to code quality and innovation.</h4>
 
-🌐 To learn more about me, visit my <a href="https://divitavincenzo.com">website</a>  and follow me on <a href="[https://linkedin](https://www.linkedin.com/in/vincenzodivita/)">website</a>!
+🌐 To learn more about me, visit my <a href="https://divitavincenzo.com">website</a>  and follow me on <a href="https://www.linkedin.com/in/vincenzodivita/">linkedin</a>!
 
 <h3 align="left">Languages:</h3>
 <p align="left">
