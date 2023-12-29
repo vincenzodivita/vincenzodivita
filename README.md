@@ -211,6 +211,17 @@
         /> 
     </a>
     <a 
+        href="https://code.visualstudio.com/" 
+        target="_blank" 
+        rel="noreferrer"> 
+        <img 
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/100px-Visual_Studio_Icon_2019.svg.png" 
+            alt="visual-studio" 
+            width="40" 
+            height="40"
+        /> 
+    </a>
+    <a 
         href="https://git-scm.com/" 
         target="_blank" 
         rel="noreferrer"> 
