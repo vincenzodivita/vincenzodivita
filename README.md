@@ -205,9 +205,7 @@
         rel="noreferrer"> 
         <img 
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/200px-Visual_Studio_Code_1.35_icon.svg.png" 
-            alt="vscode" 
-            width="40" 
-            height="40"
+            alt="vscode" width="40" height="40"
         /> 
     </a>
     <a 
@@ -216,9 +214,7 @@
         rel="noreferrer"> 
         <img 
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/100px-Visual_Studio_Icon_2019.svg.png" 
-            alt="visual-studio" 
-            width="40" 
-            height="40"
+            alt="visual-studio" width="40" height="40"
         /> 
     </a>
     <a 
@@ -227,9 +223,7 @@
         rel="noreferrer"> 
         <img 
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-            alt="git" 
-            width="40" 
-            height="40"
+            alt="git" width="40" height="40"
         /> 
     </a>
     <a 
@@ -238,9 +232,7 @@
         rel="noreferrer"> 
         <img 
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
-            alt="figma" 
-            width="40" 
-            height="40"
+            alt="figma" width="40" height="40"
         /> 
     </a>
     <a 
@@ -249,9 +241,7 @@
         rel="noreferrer"> 
         <img 
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-            alt="postman" 
-            width="40" 
-            height="40"
+            alt="postman" width="40" height="40"
         /> 
     </a> 
     <a 
