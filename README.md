@@ -16,7 +16,7 @@
         target="_blank" rel="noreferrer">
         <img 
             src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"
-            alt="html5" width="40" height="40" style="text-decoration: none;"
+            alt="html5" width="40" height="40"
         /> 
     </a> 
     <a 
@@ -24,7 +24,7 @@
         target="_blank" rel="noreferrer"> 
         <img 
             src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" 
-            alt="css3" width="40" height="40" style="text-decoration: none;"
+            alt="css3" width="40" height="40"
         /> 
     </a> 
     <a 
@@ -32,7 +32,7 @@
         target="_blank" rel="noreferrer"> 
         <img 
             src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" 
-            alt="javascript" width="40" height="40" style="text-decoration: none;"
+            alt="javascript" width="40" height="40"
         /> 
     </a> 
     <a
@@ -41,7 +41,7 @@
         rel="noreferrer"> 
         <img 
             src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" 
-            alt="bootstrap" width="40" height="40" style="text-decoration: none;"
+            alt="bootstrap" width="40" height="40"
         /> 
     </a> 
     <a 
@@ -49,7 +49,7 @@
         target="_blank" rel="noreferrer"> 
         <img 
             src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" 
-            alt="tailwind" width="40" height="40" style="text-decoration: none;"
+            alt="tailwind" width="40" height="40"
         /> 
     </a>
     <a 
@@ -57,7 +57,7 @@
         target="_blank" rel="noreferrer"> 
         <img 
             src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" 
-            alt="sass" width="40" height="40" style="text-decoration: none;"
+            alt="sass" width="40" height="40"
         /> 
     </a> 
     <a 
@@ -66,7 +66,7 @@
         rel="noreferrer"> 
         <img 
             src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" 
-            alt="react" width="40" height="40" style="text-decoration: none;"
+            alt="react" width="40" height="40"
         /> 
     </a>
     <a 
@@ -75,7 +75,7 @@
         rel="noreferrer"> 
         <img 
             src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" 
-            alt="vuejs" width="40" height="40" style="text-decoration: none;"
+            alt="vuejs" width="40" height="40"
         /> 
     </a> 
     <a 
@@ -83,7 +83,7 @@
     target="_blank" rel="noreferrer"> 
     <img 
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" 
-        alt="vitejs" width="40" height="40" style="text-decoration: none;"
+        alt="vitejs" width="40" height="40"
     /> 
     </a> 
 </p>
