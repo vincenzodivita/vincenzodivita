@@ -268,6 +268,14 @@
             alt="flowgorithm" width="40" height="40"
         /> 
     </a>
+        <a 
+        href="https://www.netlify.com/" 
+        target="_blank" rel="noreferrer"> 
+        <img 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Netlify-Dark.svg" 
+            alt="netflify" width="40" height="40"
+        /> 
+    </a>
 </p>
 <h4 align="left">Other language used:</h4>
 <p align="left"> 
