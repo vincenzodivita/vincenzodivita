@@ -248,7 +248,7 @@
         href="https://www.gnu.org/software/bash/" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" 
             alt="bash" width="40" height="40"
         /> 
     </a>
