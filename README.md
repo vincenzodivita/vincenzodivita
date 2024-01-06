@@ -295,6 +295,14 @@
             alt="arduino" width="40" height="40"
         /> 
     </a>
+        <a 
+        href="https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference" 
+        target="_blank" rel="noreferrer"> 
+        <img 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Regex-Dark.svg" 
+            alt="regex" width="40" height="40"
+        /> 
+    </a>
 </p>
 
 <h3>
@@ -308,4 +316,3 @@
         /> 
     </a>
 </h3>
-
