@@ -125,7 +125,8 @@
         href="https://expressjs.com" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" 
+            alt="nestjs" width="40" height="40"
         /> 
     </a>
     <a 
