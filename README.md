@@ -65,7 +65,7 @@
         target="_blank" 
         rel="noreferrer"> 
         <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" 
             alt="react" width="40" height="40"
         /> 
     </a>
@@ -93,7 +93,7 @@
         href="https://www.php.net" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" 
             alt="php" width="40" height="40"
         /> 
     </a>
@@ -101,7 +101,7 @@
         href="https://laravel.com/" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Dark.svg" 
             alt="laravel" width="40" height="40"
         /> 
     </a> 
@@ -117,7 +117,7 @@
         href="https://nodejs.org" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" 
             alt="nodejs" width="40" height="40"
         />
     </a>
@@ -133,7 +133,7 @@
         href="https://nestjs.com/" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" 
             alt="nestjs" width="40" height="40"
         /> 
     </a>
@@ -160,7 +160,7 @@
         href="https://www.mysql.com/" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" 
             alt="mysql" width="40" height="40"
         /> 
     </a>
@@ -184,7 +184,7 @@
         href="https://www.postgresql.org" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" 
             alt="postgresql" width="40" height="40"
         /> 
     </a>
@@ -192,7 +192,7 @@
         href="https://www.mongodb.com/" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" 
             alt="mongodb" width="40" height="40"
         /> 
     </a>
@@ -240,7 +240,7 @@
         target="_blank" 
         rel="noreferrer"> 
         <img 
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" 
             alt="postman" width="40" height="40"
         /> 
     </a> 
