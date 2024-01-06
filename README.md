@@ -48,7 +48,7 @@
         href="https://tailwindcss.com/" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" 
             alt="tailwind" width="40" height="40"
         /> 
     </a>
@@ -56,7 +56,7 @@
         href="https://sass-lang.com" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" 
             alt="sass" width="40" height="40"
         /> 
     </a> 
@@ -74,7 +74,7 @@
         target="_blank" 
         rel="noreferrer"> 
         <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" 
             alt="vuejs" width="40" height="40"
         /> 
     </a> 
@@ -82,7 +82,7 @@
     href="https://vitejs.dev/" 
     target="_blank" rel="noreferrer"> 
     <img 
-        src="https://vitejs.dev/logo.svg" 
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" 
         alt="vitejs" width="40" height="40"
     /> 
     </a> 
@@ -109,7 +109,7 @@
         href="https://www.typescriptlang.org/" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" 
             alt="typescript" width="40" height="40"
         /> 
     </a>
@@ -204,7 +204,7 @@
         target="_blank" 
         rel="noreferrer"> 
         <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/200px-Visual_Studio_Code_1.35_icon.svg.png" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" 
             alt="vscode" width="40" height="40"
         /> 
     </a>
@@ -213,7 +213,7 @@
         target="_blank" 
         rel="noreferrer"> 
         <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/100px-Visual_Studio_Icon_2019.svg.png" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" 
             alt="visual-studio" width="40" height="40"
         /> 
     </a>
