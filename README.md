@@ -301,7 +301,7 @@
         href="https://www.arduino.cc/" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" 
             alt="arduino" width="40" height="40"
         /> 
     </a>
