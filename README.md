@@ -284,7 +284,7 @@
         href="http://www.flowgorithm.org/index.html" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="http://flowgorithm.altervista.org/HTML%20ITA/logo_flowgorithm.png" 
+            src="./img/flowgorithm.png" 
             alt="flowgorithm" width="40" height="40"
         /> 
     </a>
