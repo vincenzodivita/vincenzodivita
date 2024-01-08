@@ -33,7 +33,7 @@
         href="https://developer.apple.com/xcode/" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://github.com/vincenzodivita/vincenzodivita/blob/main/xcode.png?raw=true" 
+            src="./img/xcode.png" 
             alt="xcode" width="40" height="40"
         /> 
     </a>
