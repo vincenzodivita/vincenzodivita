@@ -9,6 +9,44 @@
 
 🌐 To learn more about me, visit my <a href="https://divitavincenzo.com">website</a>  and follow me on <a href="https://www.linkedin.com/in/vincenzodivita/">linkedin</a>!
 
+<h4 align="left">IDE used:</h4>
+<p align="left"> 
+    <a 
+        href="https://code.visualstudio.com/" 
+        target="_blank" 
+        rel="noreferrer"> 
+        <img 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" 
+            alt="vscode" width="40" height="40"
+        /> 
+    </a>
+    <a 
+        href="https://code.visualstudio.com/" 
+        target="_blank" 
+        rel="noreferrer"> 
+        <img 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" 
+            alt="visual-studio" width="40" height="40"
+        /> 
+    </a>
+        <a 
+        href="https://developer.apple.com/xcode/" 
+        target="_blank" rel="noreferrer"> 
+        <img 
+            src="https://github.com/vincenzodivita/vincenzodivita/blob/main/xcode.png?raw=true" 
+            alt="xcode" width="40" height="40"
+        /> 
+    </a>
+    <a 
+        href="https://atom-editor.cc/" 
+        target="_blank" rel="noreferrer"> 
+        <img 
+            src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Atom.svg" 
+            alt="atom" width="40" height="40"
+        /> 
+    </a>
+</p>
+
 <h4 align="left">Languages, libraries and frameworks used for front-end development:</h4>
 <p align="left"> 
     <a 
@@ -199,24 +237,6 @@
 </p>
 <h4 align="left">Other tools used:</h4>
 <p align="left"> 
-    <a 
-        href="https://code.visualstudio.com/" 
-        target="_blank" 
-        rel="noreferrer"> 
-        <img 
-            src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" 
-            alt="vscode" width="40" height="40"
-        /> 
-    </a>
-    <a 
-        href="https://code.visualstudio.com/" 
-        target="_blank" 
-        rel="noreferrer"> 
-        <img 
-            src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" 
-            alt="visual-studio" width="40" height="40"
-        /> 
-    </a>
     <a 
         href="https://git-scm.com/" 
         target="_blank" 
