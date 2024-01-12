@@ -333,16 +333,7 @@
     </a>
 </p>
 
-<button>
-    <a href="https://github.com/vdv-boolean" 
-        target="_blank" rel="noreferrer"> 
-    See all my projects developed by me during the Boolean Class #96 course:
-        <img 
-            src="https://yt3.googleusercontent.com/UXFC9eFKxjbOcUeEiIFqpywdInXJijIrh5bkfUMPlKhCLKaO6rrTfh5O5IzNTS_2Wap2yBk1J44=s176-c-k-c0x00ffffff-no-rj" 
-            alt="vdv-boolean" width="40" height="40"
-        /> 
-    </a>
-</button>
+
 <a href="https://github.com/vdv-boolean" 
         target="_blank" rel="noreferrer"> 
  <figure>  
