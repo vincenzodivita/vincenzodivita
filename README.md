@@ -33,7 +33,7 @@
         href="https://developer.apple.com/xcode/" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="./img/xcode.png" 
+            src="https://github.com/vincenzodivita/vincenzodivita/blob/main/img/xcode.png?raw=true" 
             alt="xcode" width="40" height="40"
         /> 
     </a>
@@ -284,7 +284,7 @@
         href="http://www.flowgorithm.org/index.html" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="./img/flowgorithm.png" 
+            src="https://github.com/vincenzodivita/vincenzodivita/blob/main/img/flowgorithm.png?raw=true" 
             alt="flowgorithm" width="40" height="40"
         /> 
     </a>
