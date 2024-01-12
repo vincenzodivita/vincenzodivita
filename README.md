@@ -236,7 +236,7 @@
         /> 
     </a>
 </p>
-<h4 align="left">Flowchart maker used:</h4>
+<h4 align="left">Flowchart makers used:</h4>
 <p align="left"> 
     <a 
         href="https://app.diagrams.net/" 
@@ -349,7 +349,7 @@
 
 <h2 align="center">My projects:</h2> 
 <a href="https://github.com/vdv-boolean" target="_blank" rel="noreferrer"> 
-    <div style="border-style: solid;">
+    <div>
         <img 
             src="https://yt3.googleusercontent.com/UXFC9eFKxjbOcUeEiIFqpywdInXJijIrh5bkfUMPlKhCLKaO6rrTfh5O5IzNTS_2Wap2yBk1J44=s176-c-k-c0x00ffffff-no-rj" 
             alt="vdv-boolean" width="40" height="40"
