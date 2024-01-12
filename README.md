@@ -206,7 +206,7 @@
         href="https://www.phpmyadmin.net/" 
         target="_blank" rel="noreferrer"> 
         <img 
-            src="https://github.com/vdv-boolean/.github/blob/main/img/phpmyadmin.png" 
+            src="./img/phpmyadmin.png" 
             alt="phpmyadmin" width="40" height="40"
         /> 
     </a> 
