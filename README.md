@@ -236,6 +236,25 @@
         /> 
     </a>
 </p>
+<h4 align="left">Flowchart maker used:</h4>
+<p align="left"> 
+    <a 
+        href="https://app.diagrams.net/" 
+        target="_blank" rel="noreferrer"> 
+        <img 
+            src="https://github.com/vincenzodivita/vincenzodivita/blob/main/img/drawio.png?raw=true" 
+            alt="drawio" width="40" height="40"
+        /> 
+    </a>
+    <a 
+        href="http://www.flowgorithm.org/index.html" 
+        target="_blank" rel="noreferrer"> 
+        <img 
+            src="https://github.com/vincenzodivita/vincenzodivita/blob/main/img/flowgorithm.png?raw=true" 
+            alt="flowgorithm" width="40" height="40"
+        /> 
+    </a>
+</p>
 <h4 align="left">Other tools used:</h4>
 <p align="left"> 
     <a 
@@ -266,14 +285,6 @@
         /> 
     </a> 
     <a 
-        href="https://www.gnu.org/software/bash/" 
-        target="_blank" rel="noreferrer"> 
-        <img 
-            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" 
-            alt="bash" width="40" height="40"
-        /> 
-    </a>
-    <a 
         href="https://www.docker.com/" 
         target="_blank" rel="noreferrer"> 
         <img 
@@ -282,14 +293,6 @@
         /> 
     </a>
     <a 
-        href="http://www.flowgorithm.org/index.html" 
-        target="_blank" rel="noreferrer"> 
-        <img 
-            src="https://github.com/vincenzodivita/vincenzodivita/blob/main/img/flowgorithm.png?raw=true" 
-            alt="flowgorithm" width="40" height="40"
-        /> 
-    </a>
-        <a 
         href="https://www.netlify.com/" 
         target="_blank" rel="noreferrer"> 
         <img 
@@ -314,6 +317,14 @@
         <img 
             src="https://github.com/tandpfun/skill-icons/raw/main/icons/Swift.svg" 
             alt="swift" width="40" height="40"
+        /> 
+    </a>
+    <a 
+        href="https://www.gnu.org/software/bash/" 
+        target="_blank" rel="noreferrer"> 
+        <img 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" 
+            alt="bash" width="40" height="40"
         /> 
     </a>
     <a 
