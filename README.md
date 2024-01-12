@@ -9,7 +9,7 @@
 
 🌐 To learn more about me, visit my <a href="https://divitavincenzo.com">website</a>  and follow me on <a href="https://www.linkedin.com/in/vincenzodivita/">linkedin</a>!
 
-<h2 align="center">My stack/h2>
+<h2 align="center">My stack:</h2>
 <h4 align="left">IDE used:</h4>
 <p align="left"> 
     <a 
