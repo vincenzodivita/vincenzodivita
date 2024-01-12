@@ -336,7 +336,7 @@
 
 
 
-   
+<h2 align="center">My projects:</h2> 
 <a href="https://github.com/vdv-boolean" target="_blank" rel="noreferrer"> 
     <div style="border-style: solid;">
         <img 
