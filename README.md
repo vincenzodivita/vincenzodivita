@@ -7,6 +7,8 @@
 
 <p>💼 I invite you to explore my GitHub profile, where you'll discover a collection of my key projects, encompassing work from the Boolean Course, NS12 Academy, and personal endeavors. Each project represents a unique challenge and underscores my dedication to code quality and innovation.</p>
 
+<p>📚 In addition to my software development skills and commitment to creating innovative projects, I share a passion for reading. I draw inspiration from authors who have profoundly influenced my programming style, including notable figures like Jack Fellers and Tony Chan. Among my favorite books, "Clean Code" and "Pragmatic Programmer" hold a special place, reflecting my appreciation for well-crafted code and pragmatic approaches to programming. This love for programming literature enriches my intellectual landscape, contributing to my holistic development in the dynamic field of technology.</p>
+
 🌐 To learn more about me, visit my <a href="https://divitavincenzo.com">website</a>  and follow me on <a href="https://www.linkedin.com/in/vincenzodivita/">linkedin</a>!
 
 <h2 align="center">My stack:</h2>
