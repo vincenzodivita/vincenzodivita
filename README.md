@@ -254,6 +254,14 @@
             alt="mongodb" width="40" height="40"
         /> 
     </a>
+     <a 
+        href="https://hibernate.org/" 
+        target="_blank" rel="noreferrer"> 
+        <img 
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" 
+            alt="hibernate" width="40" height="40"
+        /> 
+    </a>
 </p>
 <h4 align="left">Flowchart makers used:</h4>
 <p align="left"> 
