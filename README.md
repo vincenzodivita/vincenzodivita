@@ -210,7 +210,23 @@
             src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" 
             alt="dotnet" width="40" height="40"
         /> 
+    </a
+            <a 
+        href="https://www.java.com" 
+        target="_blank" rel="noreferrer"> 
+        <img 
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" 
+            alt="java" width="40" height="40"
+        /> 
     </a>
+        <a 
+        href="https://spring.io/" 
+        target="_blank" rel="noreferrer"> 
+        <img 
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" 
+            alt="spring" width="40" height="40"
+        /> 
+    </a
 </p>
 <h4 align="left">DBs and tools used for DAL development:</h4>
 <p align="left"> 
@@ -330,14 +346,6 @@
 </p>
 <h4 align="left">Other language used:</h4>
 <p align="left"> 
-    <a 
-        href="https://www.java.com" 
-        target="_blank" rel="noreferrer"> 
-        <img 
-            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" 
-            alt="java" width="40" height="40"
-        /> 
-    </a>
     <a 
         href="https://developer.apple.com/swift/" 
         target="_blank" rel="noreferrer"> 
