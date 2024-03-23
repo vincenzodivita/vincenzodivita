@@ -33,6 +33,14 @@
         /> 
     </a>
         <a 
+        href="https://www.jetbrains.com/idea/?var=1" 
+        target="_blank" rel="noreferrer"> 
+        <img 
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" 
+            alt="idea" width="40" height="40"
+        /> 
+    </a>
+        <a 
         href="https://developer.apple.com/xcode/" 
         target="_blank" rel="noreferrer"> 
         <img 
