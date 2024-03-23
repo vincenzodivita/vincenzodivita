@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vincenzo Di Vita</h1>
-<p>👋 I am a passionate developer specializing in Services and Microservices Development. Currently, I work as a Full Stack Web Developer at Future +, where I have extensive expertise in both Front-End and Back-End development. My skills span across Vue, React, NestJS, .Net, and Laravel frameworks. I have a particular interest in Back-end projects, and I find great excitement in working on projects that involve API development.</p>
+<p>👋 I am a passionate developer specializing in Services and Microservices Development. Currently, I work as a Full Stack Web Developer at Future +, where I have extensive expertise in both Front-End and Back-End development. My skills span across Vue, React, Angular, NestJS, .Net, Spring and Laravel frameworks. I have a particular interest in Back-end projects, and I find great excitement in working on projects that involve API development.</p>
 
-<p>🎓 🎓 I have successfully completed the Boolean course, where I honed my skills in Front-End and Back-End Development. This comprehensive training has provided me with a robust foundation and hands-on experience in HTML, CSS, JavaScript, PHP, and MySQL. Additionally, I undertook an academy with NS12, where I delved deeper into backend development for services and microservices. During this program, I gained proficiency in technologies such as JavaScript, TypeScript, C#, Node.js, NestJS, .NET, MSSQL, PostgreSQL, and MongoDB. Recently, I also completed an academy with Contrader, where I further expanded my skill set in full-stack development. In this training, I learned additional technologies including Java with MVC pattern using Spring and JSP, as well as utilizing Spring REST and Angular for building dynamic web applications. Furthermore, I gained experience in developing microservices architectures..</p>
+<p>🎓 I have successfully completed the Boolean course, where I honed my skills in Front-End and Back-End Development. This comprehensive training has provided me with a robust foundation and hands-on experience in HTML, CSS, JavaScript, PHP, and MySQL. Additionally, I undertook an academy with NS12, where I delved deeper into backend development for services and microservices. During this program, I gained proficiency in technologies such as JavaScript, TypeScript, C#, Node.js, NestJS, .NET, MSSQL, PostgreSQL, and MongoDB. Recently, I also completed an academy with Contrader, where I further expanded my skill set in full-stack development. In this training, I learned additional technologies including Java with MVC pattern using Spring and JSP, as well as utilizing Spring REST and Angular for building dynamic web applications. Furthermore, I gained experience in developing microservices architectures..</p>
 
 <p>🚀 Currently, I'm dedicating my efforts to crafting my personal music practice web app. In my free time, you'll often find me exploring different Arduino projects, immersed in the joy of DIY.</p>
 
@@ -9,7 +9,7 @@
 
 <p>📚 In addition to my software development skills and commitment to creating innovative projects, I share a passion for reading. I draw inspiration from authors who have profoundly influenced my programming style, including notable figures like Jack Fellers and Tony Chan. Among my favorite books, "Clean Code" and "Pragmatic Programmer" hold a special place, reflecting my appreciation for well-crafted code and pragmatic approaches to programming. This love for programming literature enriches my intellectual landscape, contributing to my holistic development in the dynamic field of technology.</p>
 
-🌐 To learn more about me, visit my <a href="https://divitavincenzo.com">website</a>  and follow me on <a href="https://www.linkedin.com/in/vincenzodivita/">linkedin</a>!
+🌐 To learn more about me, visit my <a href="https://divitavincenzo.it">website</a>  and follow me on <a href="https://www.linkedin.com/in/vincenzodivita/">linkedin</a>!
 
 <h2 align="center">My stack:</h2>
 <h4 align="left">IDE used:</h4>
@@ -348,7 +348,7 @@
 </p>
 
 
-
+<!--
 <h2 align="center">My projects:</h2> 
 <a href="https://github.com/vdv-boolean" target="_blank" rel="noreferrer"> 
     <img 
@@ -359,4 +359,5 @@
         Questa è la didascalia dell’immagine.
     </span>  
 </a>
+-->
 
