@@ -114,7 +114,7 @@
         target="_blank" 
         rel="noreferrer"> 
         <img 
-            src=" https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" 
+            src=" https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" 
             alt="angular" width="40" height="40"
         /> 
     </a>
