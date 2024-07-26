@@ -2,15 +2,26 @@
 
 I am a passionate developer specializing in **Services and Microservices Development**. Currently, I work as a **Full Stack Web Developer at  Renthub Software**, where I leverage my expertise in both **Front-End and Back-End development**. My technical skills span across a wide range of frameworks including **Vue, React, Angular, NestJS, .Net, Spring,** and **Laravel**. While I enjoy all aspects of development, I have a particular interest in back-end projects, and I find great excitement in working on projects that involve **API development**.
 
-## 🎓 Education & Training
+### 🎓 Education & Training
 
-I have successfully completed several comprehensive training programs that have equipped me with a robust foundation and hands-on experience in software development:
+### University Education
 
-- **Boolean Course**: I honed my skills in both **Front-End** and **Back-End Development**, working extensively with technologies like **HTML, CSS, JavaScript, PHP,** and **MySQL**.
+- **Ingegneria delle Innovazioni per le Imprese Digitali** (2019)  
+  I initially pursued a degree in **Ingegneria delle Innovazioni per le Imprese Digitali** in 2019 at University of Palermo, where I gained a foundational understanding of engineering principles for digital enterprises.
 
-- **NS12 Academy**: Here, I delved deeper into **backend development for services and microservices**. This program allowed me to gain proficiency in technologies such as **JavaScript, TypeScript, C#, Node.js, NestJS, .NET, MSSQL, PostgreSQL,** and **MongoDB**.
+- **Laura Informatica per le Aziende Digitali** - University Pegaso  
+  I am currently studying **Laura Informatica per le Aziende Digitali** at University Pegaso. This program is enhancing my skills in computer science with a focus on digital business applications.
 
-- **Contrader Academy**: I further expanded my skill set in full-stack development, learning **Java with the MVC pattern using Spring and JSP**, as well as building dynamic web applications with **Spring REST** and **Angular**. I also gained experience in developing **microservices architectures**.
+### Professional Training
+
+- **Boolean Course**  
+  I honed my skills in both **Front-End** and **Back-End Development**, working extensively with technologies like **HTML, CSS, JavaScript, PHP,** and **MySQL**.
+
+- **NS12 Academy**  
+  Here, I delved deeper into **backend development for services and microservices**. This program allowed me to gain proficiency in technologies such as **JavaScript, TypeScript, C#, Node.js, NestJS, .NET, MSSQL, PostgreSQL,** and **MongoDB**.
+
+- **Contrader Academy**  
+  I further expanded my skill set in full-stack development, learning **Java with the MVC pattern using Spring and JSP**, as well as building dynamic web applications with **Spring REST** and **Angular**. I also gained experience in developing **microservices architectures**.
 
 ## 💼 Professional Experience
 
