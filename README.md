@@ -44,9 +44,9 @@ In my free time, you'll often find me exploring different **Arduino projects**, 
 Apart from my technical pursuits, I have a deep love for reading. Books like **"Clean Code"** and **"Pragmatic Programmer"** have profoundly influenced my programming style, reflecting my appreciation for well-crafted code and pragmatic approaches to software development. Authors like **Jack Fellers** and **Tony Chan** have been instrumental in shaping my programming philosophy and intellectual landscape.
 
 ## 🌐 Connect with Me
-
+<!--
 - **GitHub**: Explore my [GitHub profile](https://github.com/your-profile), where you'll discover a collection of my key projects, encompassing work from the Boolean Course, NS12 Academy, Contrader Academy, and personal endeavors. Each project represents a unique challenge and underscores my dedication to code quality and innovation.
-
-- **Website**: [Visit my website](https://your-website.com) to learn more about my work and insights.
+-->
+- **Website**: [Visit my website](https://www.divitavincenzo.it/) to learn more about my work and insights.
 
 - **LinkedIn**: Follow me on [LinkedIn](https://linkedin.com/in/your-linkedin-profile) for updates on my professional journey and industry insights.
